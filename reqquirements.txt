@@ -1,0 +1,11 @@
+openpyxl
+pandas
+streamlit
+joblib
+altair
+numpy 
+seaborn 
+matplotlib
+scikit-learn
+datetime 
+scipy 
